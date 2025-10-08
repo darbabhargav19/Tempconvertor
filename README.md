@@ -15,7 +15,7 @@ This Python program allows users to input a temperature value and its unit (Cels
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/darbabhargav19/Tempconvertor.git
 2. Navigate to the project directory:
    cd <your-repo-name>
 3. Ensure you have Python installed (version 3.x recommended). Check your Python version:
